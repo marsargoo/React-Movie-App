@@ -1,7 +1,7 @@
 # React-Movie-App
 
 Hello all!
-The point of this project was to create a movie List that allows you to hover and search movies using ReactJS.
+The point of this project was to create a movie List that allows you to hover and search movies using React!
 
 ## Project Images
 The following images display the UI of the project.
